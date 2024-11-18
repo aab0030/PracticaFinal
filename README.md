@@ -11,3 +11,9 @@ DEPORTES:
 	Baloncesto
 	Pádel
 	Tenis
+
+FAVORITAS:
+
+	The world we knew
+	That girl from Ipanema
+	That's life	
